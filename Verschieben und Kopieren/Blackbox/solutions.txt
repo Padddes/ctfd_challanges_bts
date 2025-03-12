@@ -1,0 +1,1 @@
+Der Schalter -v (verbose) schreibt die Aktionen eines Befehls im stdOut aus.
